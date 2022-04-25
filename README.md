@@ -1,2 +1,2 @@
-# PE_pandemia_covid-19
-Notebook para breve análise de dados de vacinação em Pernambuco.
+# Análises de Dados da pandemia em Pernambuco
+Análises utilizando Python, Pandas, Matplotlib, Seaborn, Plotly, APIs e dados pem Júpyter notebook.
